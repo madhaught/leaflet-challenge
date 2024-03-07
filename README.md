@@ -7,6 +7,8 @@ The data is from the USGS GeoJSON Feed https://earthquake.usgs.gov/earthquakes/f
 
 I created a map and tilelayer with leaflet. The tile layer is from https://www.openstreetmap.org/copyright.
 
-Once the data was available I used it to create markers in the location of the earthquakes. I modified the markers so that they varied in size based on the magnitude of the earthquakes and in color based on the depth of the earthquakes. I also added a legend to indicate which colors correspond with which depths. 
+Once the data was available I used it to create markers in the locations of the earthquakes. I modified the markers so that they varied in size based on the magnitude of the earthquakes and in color based on the depth of the earthquakes. I also added a legend to indicate which colors correspond with which depths. 
 
 To create the legend, I used code from https://codepen.io/haakseth/pen/KQbjdO and to modify the colors I used code from https://leafletjs.com/examples/choropleth/. This usage is marked in the style.css and logic.js files via comment above the lines of code.
+
+To view this code one can go live with the index.html file.
