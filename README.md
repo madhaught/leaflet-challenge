@@ -11,4 +11,6 @@ Once the data was available I used it to create markers in the locations of the 
 
 To create the legend, I used code from https://codepen.io/haakseth/pen/KQbjdO and to modify the colors I used code from https://leafletjs.com/examples/choropleth/. This usage is marked in the style.css and logic.js files via comment above the lines of code.
 
+Most of my work was done in the logic.js file in the js folder inside of the static folder. I used the provided starter code to get the index.html file and the body and map sections in the style.css file in the css folder inside of the static folder.
+
 To view this code one can go live with the index.html file.
