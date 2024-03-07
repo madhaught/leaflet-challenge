@@ -13,4 +13,4 @@ To create the legend, I used code from https://codepen.io/haakseth/pen/KQbjdO an
 
 Most of my work was done in the logic.js file in the js folder inside of the static folder. I used the provided starter code to get the index.html file and the body and map sections in the style.css file in the css folder inside of the static folder.
 
-To view this code one can go live with the index.html file.
+To view this code one can go live with the index.html file or on github pages.
